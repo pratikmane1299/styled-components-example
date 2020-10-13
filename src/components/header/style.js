@@ -2,6 +2,9 @@ import styled from 'styled-components';
 import { Container } from '../../globalStyle';
 
 export const Nav = styled.div`
+  z-index: 1;
+  top: 0;
+  position: sticky;
   background-color: #fff;
   border-bottom: 1px solid rgba(0, 0, 0, 0.0975);
 `
