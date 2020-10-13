@@ -1,3 +1,9 @@
+# Styled-Components Example
+
+Instagram profile page with [styled components](https://styled-components.com/).
+
+![Instagram Profile](https://i.imgur.com/it73Tyq.png) 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
